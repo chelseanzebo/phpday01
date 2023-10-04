@@ -5,8 +5,8 @@ $string = "forty two";
 $bool= true;
 $null = NULL;
 
-echo($integer);
-echo($float);
-echo($string);
-echo($bool);
-echo($null);
+// echo($integer);
+// echo($float);
+// echo($string);
+// echo($bool);
+// echo($null);
